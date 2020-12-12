@@ -1,4 +1,4 @@
-baseurl = "https://example.com/"
+baseurl = "https://taenja.github.io/"
 languageCode = "en-US"
 title = "Tanya Singh"
 # Enable comments by entering your Disqus shortname
@@ -40,8 +40,8 @@ theme = "hugo-sustain"
   weight = 200
   url = "/projects/"
 [[menu.main]]
-  name = "resume"
-  identifier = "resume"
+  name = "CV"
+  identifier = "CV"
   weight = 300
-  url = "/resume/"
+  url = "img/CV.pdf"
 
