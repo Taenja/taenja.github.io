@@ -1,0 +1,22 @@
+name: Projects
+source:
+  - icon: fa fa-github
+    description: WebMapping with Leaflet :- The Student accommodation map gives details of the Dorms in Salzburg, Austria. 
+
+  - icon: fa fa-github
+    description: Visualization with Tableau :- The workbook represents the BLUEbike riders data from October 2016.  
+
+  - icon: fa fa-github
+    description: Geohumanitarian Action :- Environmental impact assessment of refugee camps.
+  
+  - icon: fa fa-globe
+    description: Stay tuned!!!!!
+    
+  - icon: fa fa-globe
+    description: Stay tuned!!!!
+    
+  - icon: fa fa-cog
+    description: Stay tuned!!!!
+    
+  - icon: fa fa-cog
+    description: Stay tuned!!!!

@@ -22,11 +22,8 @@ theme = "hugo-sustain"
 [params.social]
   Github        = "Taenja"
   Email         = "tanya.singh@stud.sbg.ac.at"
-  Twitter       = "username"
   LinkedIn      = "tanya-singh-360a65bb"
-  Stackoverflow = "username"
-  Medium        = "username"
-  Telegram      = "username"
+  
 
 ## Main Menu
 [[menu.main]]
