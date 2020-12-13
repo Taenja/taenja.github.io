@@ -1,22 +1,27 @@
 name: Projects
 source:
   - icon: fa fa-github
-    description: WebMapping with Leaflet :- The Student accommodation map gives details of the Dorms in Salzburg, Austria. 
+    description: WebMapping with Leaflet :- The Student accommodation webmap gives details of the Dorms in Salzburg, Austria. 
+    url: https://taenja.github.io/Cartography/
+
+  - icon: fa fa-globe
+    description: Visualization with Tableau :- The workbook represents the BLUEbike riders data from October 2016. Visualize the busiest hour in a day, age of the riders and the most preferred day for bike riding. 
+    url: https://public.tableau.com/profile/tanya.singh5846#!/vizhome/BlueBike_Oct2016/BLUEbikesRidersOct2016?publish=yes
 
   - icon: fa fa-github
-    description: Visualization with Tableau :- The workbook represents the BLUEbike riders data from October 2016.  
-
-  - icon: fa fa-github
-    description: Geohumanitarian Action :- Environmental impact assessment of refugee camps.
+    description: Geohumanitarian Action :- Environmental impact assessment of refugee camps. Analyse the affects of IDP camps in Darfur, Sudan on the local environment. 
+    url: https://docs.google.com/presentation/d/1xZd-Ftl5XrNgis3-5zQZEQJegQSUNiH_qE0y7JWuOoo/edit?usp=sharing
   
   - icon: fa fa-globe
-    description: Stay tuned!!!!!
+    description: Interpolation :- "Everything is related to everything else but near things are more related to distant things ". Learn how the temperature changed in Spain during summer of 2016 and how to do the quality assessment of interpolation results.
+    url: https://arcg.is/0vfOy0
+  
+  - icon: fa fa-globe
+    description: Distance Analyses :- Find out why distance plays a vital role in urban planning. 
+    url: https://arcg.is/1XurWH
     
   - icon: fa fa-globe
     description: Stay tuned!!!!
     
-  - icon: fa fa-cog
-    description: Stay tuned!!!!
-    
-  - icon: fa fa-cog
+  - icon: fa fa-globe
     description: Stay tuned!!!!
