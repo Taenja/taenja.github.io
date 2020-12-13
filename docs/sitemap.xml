@@ -34,67 +34,54 @@
   
   <url>
     <loc>https://taenja.github.io/blog/</loc>
-    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://taenja.github.io/blog/creating-a-new-theme/</loc>
-    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://taenja.github.io/blog/goisforlovers/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://taenja.github.io/categories/development/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://taenja.github.io/tags/development/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://taenja.github.io/blog/hugoisforlovers/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://taenja.github.io/tags/go/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://taenja.github.io/tags/golang/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://taenja.github.io/categories/golang/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://taenja.github.io/tags/hugo/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://taenja.github.io/blog/hugoisforlovers/</loc>
+  </url>
+  
+  <url>
+    <loc>https://taenja.github.io/blog/goisforlovers/</loc>
   </url>
   
   <url>
     <loc>https://taenja.github.io/tags/templates/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://taenja.github.io/tags/themes/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://taenja.github.io/blog/migrate-from-jekyll/</loc>
-    <lastmod>2014-03-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://taenja.github.io/blog/creating-a-new-theme/</loc>
   </url>
   
 </urlset>
