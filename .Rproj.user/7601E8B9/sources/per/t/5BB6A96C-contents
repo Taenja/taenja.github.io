@@ -40,5 +40,5 @@ theme = "hugo-sustain"
   name = "CV"
   identifier = "CV"
   weight = 300
-  url = "img/CV.pdf"
+  url = "/static/img/CV.pdf"
 

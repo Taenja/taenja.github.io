@@ -3,7 +3,7 @@
     "path": "~/GitHub/taenja.github.io/config.toml",
     "project_path": "config.toml",
     "type": "toml",
-    "hash": "404352075",
+    "hash": "1983112589",
     "contents": "",
     "dirty": false,
     "created": 1607812538007.0,
@@ -12,15 +12,15 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "26,0",
-        "scrollLine": "14"
+        "cursorPosition": "41,14",
+        "scrollLine": "17"
     },
     "folds": "",
-    "lastKnownWriteTime": 1607880514,
+    "lastKnownWriteTime": 1607884270,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1607880514873,
+    "last_content_update": 1607884270634,
     "read_only": false,
     "read_only_alternatives": []
 }
